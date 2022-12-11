@@ -290,3 +290,11 @@ a {
         width: 90%;
     }
 }
+.back-video{
+      position: absolute;
+      right:0;
+      bottom: 0;
+      z-index: -1;
+      
+      }
+      

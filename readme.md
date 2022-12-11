@@ -1,3 +1,3 @@
 hey
 
-site link-https://sarthak027.github.io/Btechopidea.tech/
+site link-https://sarthak027.github.io/Btechopedia.tech/

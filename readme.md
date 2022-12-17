@@ -5,9 +5,9 @@ Btechopedia is our website to help the college students to gain knowledge
 
 about computer science.And the latest Technologies 
 
-## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+
+
 
 
 ## Support
